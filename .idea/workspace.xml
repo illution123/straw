@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc6212b4-4a16-4d1e-9d65-18e07c3503ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/maven" />
+        <option name="userSettingsFile" value="E:\program\software\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1efJzL0UX60IXzGgpQ2suJbxLJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/straw" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\resources\templates" />
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\resources\static\js\commons" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.tedu.straw.portal.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tedu.straw.portal.service.impl" />
+      <recent name="cn.tedu.straw.portal.model" />
+      <recent name="cn.tedu.straw.portal.mapper" />
+      <recent name="cn.tedu.straw.portal.controller" />
+      <recent name="cn.tedu.straw.portal.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\resources\mapper" />
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\java\cn\tedu\straw\portal\service\impl" />
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\java\cn\tedu\straw\portal\service" />
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\java\cn\tedu\straw\portal\model" />
+      <recent name="E:\program\IDEAWorkspace\straw\straw-portal\src\main\java\cn\tedu\straw\portal\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StrawPortalApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.straw.generator.CodeGenerator" />
+      <module name="straw-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.straw.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionMapperTests.findMostHits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="straw-portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.straw.portal.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.straw.portal.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.straw.portal.mapper.QuestionMapperTests" />
+      <option name="METHOD_NAME" value="findMostHits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionServiceTests.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="straw-portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.straw.portal.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.straw.portal.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.straw.portal.service.QuestionServiceTests" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionServiceTests.getCachedMostHits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="straw-portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.straw.portal.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.straw.portal.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.straw.portal.service.QuestionServiceTests" />
+      <option name="METHOD_NAME" value="getCachedMostHits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTests.findTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="straw-portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.straw.portal.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.straw.portal.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.straw.portal.service.UserServiceTests" />
+      <option name="METHOD_NAME" value="findTeacher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrawGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="straw-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.strawgenerator.StrawGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrawPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="straw-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.straw.portal.StrawPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuestionServiceTests.getCachedMostHits" />
+        <item itemvalue="JUnit.QuestionMapperTests.findMostHits" />
+        <item itemvalue="JUnit.QuestionServiceTests.create" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="JUnit.UserServiceTests.findTeacher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc6212b4-4a16-4d1e-9d65-18e07c3503ac" name="Default Changelist" comment="" />
+      <created>1594706974485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594706974485</updated>
+      <workItem from="1594706977962" duration="3221000" />
+      <workItem from="1594710205339" duration="7076000" />
+      <workItem from="1594717292912" duration="728000" />
+      <workItem from="1594718245849" duration="1354000" />
+      <workItem from="1594778745736" duration="2421000" />
+      <workItem from="1594788618214" duration="148000" />
+      <workItem from="1594789601935" duration="13246000" />
+      <workItem from="1594812361273" duration="3000" />
+      <workItem from="1594815098882" duration="45000" />
+      <workItem from="1594948342315" duration="8446000" />
+      <workItem from="1594965239029" duration="3378000" />
+      <workItem from="1594968629059" duration="920000" />
+      <workItem from="1594969554704" duration="87000" />
+      <workItem from="1594969644403" duration="498000" />
+      <workItem from="1594970534568" duration="661000" />
+      <workItem from="1594973972891" duration="1361000" />
+      <workItem from="1594975339644" duration="1223000" />
+      <workItem from="1594977727849" duration="2167000" />
+      <workItem from="1595032989614" duration="7280000" />
+      <workItem from="1595041252554" duration="14859000" />
+      <workItem from="1595206322573" duration="19894000" />
+      <workItem from="1595292151864" duration="23564000" />
+      <workItem from="1595328474871" duration="2689000" />
+      <workItem from="1595331209092" duration="3095000" />
+      <workItem from="1595377593357" duration="24177000" />
+      <workItem from="1595411949862" duration="201000" />
+      <workItem from="1595413205261" duration="6144000" />
+      <workItem from="1595551379890" duration="10536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594795223560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594795223560" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1595416580987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595416580987" />
+    <state x="739" y="378" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595242692760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="378" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1595242692760" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595559777222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595559777222" />
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="303" key="GridCell.Tab.0.center" timestamp="1595562021027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021027" />
+    <state width="1877" height="303" key="GridCell.Tab.0.left" timestamp="1595562021027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021027" />
+    <state width="1877" height="303" key="GridCell.Tab.0.right" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="303" key="GridCell.Tab.1.bottom" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="303" key="GridCell.Tab.1.center" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="303" key="GridCell.Tab.1.left" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="303" key="GridCell.Tab.1.right" timestamp="1595562021028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595562021028" />
+    <state width="1877" height="338" key="GridCell.Tab.2.bottom" timestamp="1595411897968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595411897968" />
+    <state width="1877" height="338" key="GridCell.Tab.2.center" timestamp="1595411897968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595411897968" />
+    <state width="1877" height="338" key="GridCell.Tab.2.left" timestamp="1595411897968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595411897968" />
+    <state width="1877" height="338" key="GridCell.Tab.2.right" timestamp="1595411897968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595411897968" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1594709088867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594709088867" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594967451254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594967451254" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595551380300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595551380300" />
+    <state x="334" y="221" key="new project wizard" timestamp="1594707969006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594707969006" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1595559277418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595559277418" />
+  </component>
+</project>
